@@ -8,7 +8,7 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-
+https://github.com/abpvn/abpvn/raw/master/filter/abpvn.txt
 # Annoying Elements, Cookie promts etc.
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
